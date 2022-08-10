@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AluminiumBottle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AluminiumBottle\ here.\r\n\r\n\ @author\ (30812283\ R\ Mathibela)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Measurement\ Measurement_Units\ Cost\ Name
+comment1.target=AluminiumBottle(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getdurability()
+comment3.params=durability
+comment3.target=void\ setdurability(int)
+comment4.params=
+comment4.target=int\ getwarrantyspan()
+comment5.params=warranty_span
+comment5.target=void\ setwarrantyspan(int)
+comment6.params=
+comment6.target=java.lang.String\ getdurabilityUnits()
+comment7.params=durabilityUnits
+comment7.target=void\ setdurabilityUnits(java.lang.String)
+comment8.params=
+comment8.target=double\ PurchaseCost()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

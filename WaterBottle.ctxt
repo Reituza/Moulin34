@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WaterBottle
+comment1.params=
+comment1.target=WaterBottle()
+comment10.params=Name
+comment10.target=void\ setName(java.lang.String)
+comment11.params=
+comment11.target=double\ PurchaseCost()
+comment2.params=Measurement\ Measurement_Units\ Cost\ Name
+comment2.target=WaterBottle(int,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getMeasurement()
+comment4.params=Measurement
+comment4.target=void\ setMeasurement(int)
+comment5.params=
+comment5.target=java.lang.String\ getMeasurement_Units()
+comment6.params=Measurement_Units
+comment6.target=void\ setMeasurementUnits(java.lang.String)
+comment7.params=
+comment7.target=int\ getCost()
+comment8.params=Cost
+comment8.target=void\ setCost(int)
+comment9.params=
+comment9.target=java.lang.String\ getName()
+numComments=12
